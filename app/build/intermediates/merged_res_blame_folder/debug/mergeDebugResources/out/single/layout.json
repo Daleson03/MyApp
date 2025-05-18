@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-43:/layout/fragment_notifications.xml",
+        "source": "com.example.myapplication.app-main-46:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-43:/layout/fragment_home.xml",
+        "source": "com.example.myapplication.app-main-46:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "com.example.myapplication.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\.gradle\\daemon\\8.10.2\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\fragment_notifications.xml",
+        "source": "D:\\AndroidStudio\\.gradle\\daemon\\8.10.2\\com.example.myapplication.app-main-46:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\.gradle\\daemon\\8.10.2\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudio\\.gradle\\daemon\\8.10.2\\com.example.myapplication.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\.gradle\\daemon\\8.10.2\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\activity_main2.xml",
+        "source": "D:\\AndroidStudio\\.gradle\\daemon\\8.10.2\\com.example.myapplication.app-main-46:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-43:/layout/fragment_dashboard.xml",
+        "source": "com.example.myapplication.app-main-46:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-43:/layout/activity_main3.xml",
+        "source": "com.example.myapplication.app-main-46:/layout/activity_main3.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\.gradle\\daemon\\8.10.2\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\fragment_dashboard.xml",
+        "source": "D:\\AndroidStudio\\.gradle\\daemon\\8.10.2\\com.example.myapplication.app-main-46:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\.gradle\\daemon\\8.10.2\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\fragment_home.xml",
+        "source": "D:\\AndroidStudio\\.gradle\\daemon\\8.10.2\\com.example.myapplication.app-main-46:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-43:/layout/activity_main2.xml",
+        "source": "com.example.myapplication.app-main-46:/layout/activity_main2.xml"
+    }
+]
